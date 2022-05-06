@@ -20,6 +20,9 @@ html {
   color: white;
 }
 
+.button:hover {
+  background-color: orange;
+}
 .image-container {
   overflow: hidden;
 }
